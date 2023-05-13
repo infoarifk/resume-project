@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-weight: bold;
+    color: black;
+}
+li{
+    font-weight: bold;
+}
+h1,h2,h3{
+    color: #117A65;
+}
+body{
+    background-color: azure;
+    font-family: 'Abel', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #a2d9ceb6;
+    margin: 0 auto;
+    padding: 20px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #117A65;
+    border-radius: 100%;
+    float: left;
+}
+.header{
+    float: left;
+    padding: 30px;
+}
+.contact{
+    float: right;
+    padding: 30px;
+}
+.contact a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid black 1px;
+    width: 100%;
+    margin: 20px auto;
+    
+}
+
+
+.left-div{
+    width: 40%;
+    float: left;
+   
+}
+.right-div{
+    width: 60%;
+    float: left;
+    
+}
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+th,td{
+    border: 2px solid black;
+    padding: 5px;
+    color: black;
+    font-weight: bold;
+}
+.end{ 
+    
+    background-color: rgba(12, 156, 149, 0.274);
+    text-align: center;
+    padding: 20px;
+
+}
+.end a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin: 20px;
+}
+.end p{
+    margin-top: 20px;
+    color: black;
+}
